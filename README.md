@@ -14,7 +14,7 @@ and it gave me the code for 'pingplotter.py' (I added the shebang header only), 
 
 Here's what the GUI looks like:
 
-
+<img src="https://github.com/brianjohnhaas/PingplotterByChatgpt/blob/main/pingplotter_gui.png" />
 
 Super helpful!
 
